@@ -2,7 +2,7 @@
 
 都市名から現在の天気を検索できるWebアプリです。
 
-**公開URL**: https//weather-app-ts-kohl.vercel.app（Vercelの固定URL）
+**公開URL**: https://weather-app-ts-kohl.vercel.app（Vercelの固定URL）
 
 ## 機能
 
